@@ -5,7 +5,9 @@
     margin: 0;
     padding: 0;
 }
-
+.IMGlogo{
+    width: 35px;
+}
 .heading1 {
 	color: black;
 	}
