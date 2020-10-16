@@ -1,0 +1,57 @@
+body {
+    
+	}
+/* section part */
+.heading1 {
+	color: black;
+	}
+.buttonClass
+{
+    margin: 50px;
+}
+.feature {
+	background: #aaf92f;
+	color: black;
+	}
+
+#feature-carousel {
+	min-height: 250px;
+	}
+.feature {
+	text-align: center;
+    }
+    
+    /*  2nd section*/
+    .secondSection
+    {
+        margin-top: 80px;
+        text-align: center;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+    .secondSection h4 {
+        margin: 30px;
+    }
+    .secondSection img {
+        height: 250px;
+    }
+
+    /* 3rd Section */
+    .thirdSection
+    {
+        background-color: #9acd32;
+        text-align: center;
+        margin: 35px;
+    }
+    .thirdSection img {
+        margin: 30px;
+        border-radius: 50%;
+    }
+    .thirdSection button{
+        margin: 50px;
+    }
+
+    /* footer section*/
+    footer {
+        text-align: center;
+        margin: 35px;
+    }
